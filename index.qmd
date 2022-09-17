@@ -1,5 +1,5 @@
 ---
-title: "My journey of learning things, and living life."
+title: "Growth mindset"
 listing:
   contents: posts
   sort: "date desc"

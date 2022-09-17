@@ -1,0 +1,6 @@
+- source: project
+  quarto-pub:
+    - id: 7a2131bd-e09d-4fc8-ad23-dcb98ca0ec35
+      url: 'https://quartopub.com/sites/mrigank/mriganks-blog'
+    - id: b4e01164-5698-4cb1-b8a3-3d6eea7f0242
+      url: 'https://quartopub.com/sites/mrigank/blog'

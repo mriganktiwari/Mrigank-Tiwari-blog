@@ -1,5 +1,5 @@
 ---
-title: "me trevor"
+title: "My journey of learning things, and living life."
 listing:
   contents: posts
   sort: "date desc"
